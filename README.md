@@ -6,3 +6,4 @@ Olá! Seja bem vindo ao meu livro de receitas :wave:
 * Pavê
 * Bolo de Cenoura
 
+* Cuscuz
