@@ -7,3 +7,5 @@ Olá! Seja bem vindo ao meu livro de receitas :wave:
 * Bolo de Cenoura
 
 * Cuscuz
+
+* Grelhado de Salmão
