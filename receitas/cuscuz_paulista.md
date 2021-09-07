@@ -1,4 +1,4 @@
-## INGREDIENTES
+## INGREDIENTES :tomato::egg:
 
 - 1/2 xícara (chá) de azeite
 - 1 cebola picada
@@ -17,7 +17,7 @@
 
 
 
-## MODO DE PREPARO
+## MODO DE PREPARO :tea:		
 
 1. Refogue no azeite, a cebola, o pimentão, as azeitonas, a ervilha, o milho verde, o molho de tomate, o cheiro-verde, a sardinha, os temperos e o tablete de caldo .
 2. Coloque a água, deixe ferver, coloque a farinha de milho e cozinhe.
